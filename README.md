@@ -10,13 +10,11 @@ This chatbot currently supports two intents:
 - **faq**: Triggered when users ask questions related to the platform's policies or general information. eg. Is online payment available?
 - **sql**: Activated when users request product listings or information based on real-time database queries. eg. Show me all nike shoes below Rs. 3000.
 
-
-
-
+<img width="1871" height="860" alt="Image" src="https://github.com/user-attachments/assets/9d3e75f4-997e-4c92-8d9d-456d964e8946" />
 
 ## Architecture
 
-
+<img width="2320" height="856" alt="Image" src="https://github.com/user-attachments/assets/dad06ad5-d05d-4b91-ad32-3c6bbb5b3d95" />
 
 ### Set-up & Execution
 
